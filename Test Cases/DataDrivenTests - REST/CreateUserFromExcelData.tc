@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateUserFromExcelData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0fd1e72-d054-442f-9a7a-0972282fd489</testCaseGuid>
+   <variable>
+      <defaultValue>'Alex'</defaultValue>
+      <description></description>
+      <id>94c94142-0559-4c9d-89fd-db03ee87b7a8</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+</TestCaseEntity>

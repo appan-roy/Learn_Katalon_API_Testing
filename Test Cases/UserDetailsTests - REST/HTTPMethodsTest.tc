@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case is used for testing the HTTP methods - GET, POST, PUT, DELETE.</description>
+   <name>HTTPMethodsTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20ff2eb3-5a7e-43d0-acf4-f757a1983570</testCaseGuid>
+</TestCaseEntity>

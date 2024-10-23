@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CheckCurrencyAndCapital</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edb652d3-d4ec-49b9-9a89-01cfa0613808</testCaseGuid>
+   <variable>
+      <defaultValue>'IN'</defaultValue>
+      <description></description>
+      <id>6a1dabf5-d1f7-496c-9a34-002d6ffdf24a</id>
+      <masked>false</masked>
+      <name>CountryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'New Delhi'</defaultValue>
+      <description></description>
+      <id>faa5988a-d5f1-4e8a-862e-5bb8cf4320bd</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rupees'</defaultValue>
+      <description></description>
+      <id>3de85965-19b5-4790-9cad-7f7da2e8d24f</id>
+      <masked>false</masked>
+      <name>Curr</name>
+   </variable>
+</TestCaseEntity>
